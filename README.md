@@ -126,5 +126,6 @@
 </p>
 
 - 💬 Ask me about **DevOps**
-- 📫 How to reach me **[harshsoni6011@gmail.com](mailto:harshsoni6011@gmail.com)**
+- 📫 Shoot me an **[Email](mailto:harshsoni6011@gmail.com)**
+- 👨🏻‍💻 Connect with me on **[linkedin](www.linkedin.com/in/harsh-soni-007hs)**
 - ⚡ Fun fact **Building bridges between code and production, one deployment at a time.**
